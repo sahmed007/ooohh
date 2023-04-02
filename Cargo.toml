@@ -1,0 +1,8 @@
+[package]
+name = "ooohh"
+version = "0.1.0"
+authors = ["samad ahmed <samadahmed2019@gmail.com>"]
+edition = "2021"
+
+[dependencies]
+nannou = "0.18.1"
